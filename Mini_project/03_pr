@@ -1,0 +1,5 @@
+a = str(input("Enter you full name "))
+if (len(a)>10):
+    print("your name is not correct")
+else:
+    print("corrrect name ")
